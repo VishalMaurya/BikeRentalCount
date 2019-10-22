@@ -1,0 +1,2 @@
+# BikeRentalCount
+The objective of this Case is to Predication of bike rental count on daily based on the environmental and seasonal settings. The objective is to forecast bike rental demand of Bike sharing program in Washington, D.C based on historical usage patterns in relation with weather, environment and other data. We would be interested in predicting the rentals on various factors including season, temperature, weather and building a model that can successfully predict the number of rentals on relevant factors.
